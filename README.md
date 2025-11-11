@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Tamilselvan Rangasamy**
+# 👋 Hi, I’m **Harrish**
 ---
 - 👀 I’m interested in **Research and Development**.
 - 🌱 I’m currently learning **Full Stack Development**.
@@ -44,11 +44,11 @@ This portfolio demonstrates my ability to create dynamic web applications and sh
 ---
 
 ## 📊 **GitHub Stats:**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamilselvanrangasamy&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harrish87&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tamilselvanrangasamy&theme=radical&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harrish87&theme=radical&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamilselvanrangasamy&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrish87&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 ---
