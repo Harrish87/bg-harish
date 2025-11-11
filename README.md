@@ -48,7 +48,6 @@ This portfolio demonstrates my ability to create dynamic web applications and sh
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harrish87&theme=radical&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrish87&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 ---
