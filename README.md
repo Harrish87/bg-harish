@@ -48,7 +48,7 @@ This portfolio demonstrates my ability to create dynamic web applications and sh
 
 ---
 ---
-## 🔧 **Code Quality & Best Practices**
+## 🔧 **Code Quality & Best Practices** 
 - Writing clean, maintainable, and scalable code.
 - Familiar with **ESLint**, **Prettier**, and **Husky** for enforcing code quality and consistency.
 - Using **Jest** for unit testing React components and **React Testing Library** for integration tests.
